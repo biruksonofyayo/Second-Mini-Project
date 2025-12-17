@@ -1,6 +1,6 @@
 # Personal Profile Website 🌐
 
-This repository contains my **first personal profile webpage**, built using **pure HTML and CSS**. It demonstrates clean structure, modern styling, and responsive design without using any CSS frameworks.
+This repository contains my **second personal profile webpage**, built using **pure HTML and CSS**. It demonstrates clean structure, modern styling, and responsive design without using any CSS frameworks.
 
 ---
 
